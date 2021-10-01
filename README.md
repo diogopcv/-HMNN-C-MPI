@@ -2,10 +2,10 @@
 
 ## Hierarchical modular neural network. Implementation in C++ using MPI
 
-| | |
+|||
 ------------ | -------------
-![](/Images/RS.png) | ![](/Images/FS.png)
-![](/Images/CHS.png) | ![](/Images/IBS.png)
+![](/Images/FS.png) | ![](/Images/RS.png)
+![](/Images/IBS.png) | ![](/Images/CHS.png)
 ![](/Images/LTS.png) | ![](/Images/lscell.png)
 
 |||
